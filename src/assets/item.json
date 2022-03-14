@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Onion Sandwich",
+        "price": 5,
+        "tax_rate": 2
+    },
+    {
+        "name": "Espresso",
+        "price": 3,
+        "tax_rate": 4
+    },
+    {
+        "name": "Latte",
+        "price": 4.5,
+        "tax_rate": 3
+    },
+    {
+        "name": "Tea",
+        "price": 3.5,
+        "tax_rate": 4
+    },
+    {
+        "name": "Corn Cheese Sandwich",
+        "price": 7,
+        "tax_rate": 4
+    }
+]

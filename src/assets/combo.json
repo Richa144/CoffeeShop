@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": [
+            "Latte","Onion Sandwich"
+        ],
+        "discount": 15
+    },
+    {
+        "id": 2,
+        "name": [
+            "Espresso","Corn Cheese Sandwich"
+        ],
+        "discount": 18
+    },
+    {
+        "id": 3,
+        "name": [
+            "Latte","Espresso"
+        ],
+        "discount": 12
+    },
+    {
+        "id": 4,
+        "name": [
+            "Latte","Tea"
+        ],
+        "discount": 5
+    },
+    {
+        "id": 5,
+        "name": [
+            "Corn Cheese Sandwich","Onion Sandwich"
+        ],
+        "discount": 10
+    }
+]

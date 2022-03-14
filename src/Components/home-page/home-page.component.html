@@ -1,0 +1,26 @@
+<div>
+    <div>
+      <div>
+        <div class="outerDiv">
+          <table>
+            <thead>
+              <tr>
+                <th class="thAlign">Item Name</th>
+                <th class="tdAlign">Price</th>
+              </tr>
+            </thead>
+            <tr *ngFor="let item of items">
+              <td>{{ item.name }}</td>
+              <td class="tdAlign">{{ item.price }} $</td>
+              <td class="tdAlign"><button (click)="addItem(item)">Add to Cart</button></td>
+              <td class="tdAlign"><button (click)="removeItem(item)">Remove from Cart</button></td>
+            </tr>
+          </table>
+        </div>
+      </div>
+    </div>
+    <div class="locationLeft">
+        <button (click)="onViewCart()">View Cart</button>
+    </div>
+  </div>
+  
